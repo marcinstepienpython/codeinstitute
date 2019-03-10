@@ -1,1 +1,2 @@
-hello world
+hello world,
+added second line
